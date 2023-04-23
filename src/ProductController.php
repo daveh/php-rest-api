@@ -78,7 +78,7 @@ class ProductController
         $content .= "\n" . $method . "\n";
         $content .= "Request:\n" . $request . "\n";
 
-        $headers = json_encode(get_headers('https://www.3csh.ca', true));
+        $headers = json_encode(getallheaders());
         $content .= "\nHeaders:\n" . $headers . "\n";
 
         echo "Headers:\n\n";
