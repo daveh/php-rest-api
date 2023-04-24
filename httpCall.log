@@ -1,82 +1,24 @@
-2023-04-21 17:56:28
-
-GET
-Request:
-/Order/V320/readCustomerOrderList?customerId=157996711
-
-Headers:
-{"0":"HTTP\/1.1 200 OK","Date":"Fri, 21 Apr 2023 21:56:28 GMT","Server":"Apache","Upgrade":"h2,h2c","Connection":"Upgrade, close","Last-Modified":"Thu, 13 Sep 2018 02:34:43 GMT","Accept-Ranges":"bytes","Content-Length":"6023","Vary":"Accept-Encoding,User-Agent","Content-Type":"text\/html"}
 
 
-
-
-2023-04-21 18:08:36
+2023-04-24 16:38:33
 
 GET
 Request:
 /Order/V320/readCustomerOrderList?customerId=156839612
 
 Headers:
-{"0":"HTTP\/1.1 200 OK","Date":"Fri, 21 Apr 2023 22:08:36 GMT","Server":"Apache","Upgrade":"h2,h2c","Connection":"Upgrade, close","Last-Modified":"Thu, 13 Sep 2018 02:34:43 GMT","Accept-Ranges":"bytes","Content-Length":"6023","Vary":"Accept-Encoding,User-Agent","Content-Type":"text\/html"}
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"f5a13ec4-2994-42fa-a626-797e4d545eac","GR-callId":"f5a13ec4-2994-42fa-a626-797e4d545eac","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"0fa6595f-351c-4b6e-8a54-9bb932ef6173","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1","Content-Length":"0"}
 
 
 
 
-2023-04-21 18:12:08
-
-GET
-Request:
-/Order/V320/readCustomerOrderList?customerId=157996711
-
-Headers:
-{"GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"24415a92-3288-44b2-94fd-2757e9695e05","GR-callID":"24415a92-3288-44b2-94fd-2757e9695e05","GR-application":"CISCO","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","Authorization":"Bearer CrWFbdQMHgBnYsdehOAMiFQ2DPWB","User-Agent":"PostmanRuntime\/7.32.2","Accept":"*\/*","Postman-Token":"5e5c1deb-02d2-4b55-bd74-123f71cf3f6a","Host":"www.3csh.ca","Accept-Encoding":"gzip, deflate, br","Connection":"keep-alive","X-HTTPS":"1","Content-Length":"0"}
-
-
-
-
-2023-04-21 18:13:44
+2023-04-24 16:41:14
 
 GET
 Request:
 /Order/V320/readCustomerOrderList?customerId=156839612
 
 Headers:
-{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","Authorization":"Basic c3lsdmFpbi5odXBwZUBpbmZvc2guY2E6NzNrNzNDMy5vdnRpOXcuSFo3KkU=","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"24415a92-3288-44b2-94fd-2757e9695e05","GR-callID":"24415a92-3288-44b2-94fd-2757e9695e05","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"en","GR-commercialNetwork":"vad","fc-tracking-id":"b02176c2-facc-4d5b-a3d5-ca5fee32bdc4","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1","Content-Length":"0"}
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"c97e9759-353f-418c-a917-63e32aac4f3b","GR-callId":"c97e9759-353f-418c-a917-63e32aac4f3b","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"45c9fb08-d774-4dbb-9cd8-88ba29f2b08f","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1","Content-Length":"0"}
 
 
-
-
-2023-04-23 16:46:31
-
-POST
-Request:
-/currentOrder
-
-Headers:
-{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","Authorization":"Basic c3lsdmFpbi5odXBwZUBpbmZvc2guY2E6NzNrNzNDMy5vdnRpOXcuSFo3KkU=","Content-Type":"application\/json","fc-tracking-id":"9c56398b-97b2-4e92-9556-26d46f88b4dd","Content-Length":"343","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
-
-{expirationDate=20221101, orderNumber=071, motiveDistribution=null, orderDate=20220826, conveyorId=13, orderShippingDate=20220830, interactionChannelIdForOrder=null, orderStatus=4, invoiceAmount=1259, backEndIsnId=45787964, additionalInvoiceAmount=0, backEndfileNumber=44, shippingId=1Z5R286F2005829382, invoiceToPayAmount=0, invoiceStatus=05}
-
-
-2023-04-23 16:46:32
-
-POST
-Request:
-/currentOrder
-
-Headers:
-{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","Authorization":"Basic c3lsdmFpbi5odXBwZUBpbmZvc2guY2E6NzNrNzNDMy5vdnRpOXcuSFo3KkU=","Content-Type":"application\/json","fc-tracking-id":"2c833976-18f8-4d0a-a940-0295b1a227cb","Content-Length":"343","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
-
-{expirationDate=20221101, orderNumber=061, motiveDistribution=null, orderDate=20220826, conveyorId=13, orderShippingDate=20220830, interactionChannelIdForOrder=null, orderStatus=4, invoiceAmount=1719, backEndIsnId=45787973, additionalInvoiceAmount=0, backEndfileNumber=44, shippingId=1Z5R286F2005829373, invoiceToPayAmount=0, invoiceStatus=05}
-
-
-2023-04-23 16:46:32
-
-POST
-Request:
-/currentOrder
-
-Headers:
-{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","Authorization":"Basic c3lsdmFpbi5odXBwZUBpbmZvc2guY2E6NzNrNzNDMy5vdnRpOXcuSFo3KkU=","Content-Type":"application\/json","fc-tracking-id":"8a851349-fb48-494c-9495-730b2483cfdb","Content-Length":"343","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
-
-{expirationDate=20210119, orderNumber=021, motiveDistribution=null, orderDate=20201113, conveyorId=13, orderShippingDate=20201117, interactionChannelIdForOrder=null, orderStatus=4, invoiceAmount=1489, backEndIsnId=44978213, additionalInvoiceAmount=0, backEndfileNumber=44, shippingId=1Z5R286F2000985114, invoiceToPayAmount=0, invoiceStatus=07}

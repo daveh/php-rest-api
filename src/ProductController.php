@@ -78,11 +78,13 @@ class ProductController
         $content .= "\n" . $method . "\n";
         $content .= "Request:\n" . $request . "\n";
 
-        $headers = json_encode(getallheaders());
-        $content .= "\nHeaders:\n" . $headers . "\n";
-
+        $allHeaders = getallheaders();
+        unset($allHeaders["Authorization"]);
         echo "Headers:\n\n";
-        echo $headers;
+        echo json_encode($allHeaders);
+
+        $content .= "\nHeaders:\n" . json_encode($allHeaders) . "\n";
+
         echo "\nBody:\n\n";
         $entityBody = file_get_contents('php://input');
         echo $entityBody;
