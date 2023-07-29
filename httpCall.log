@@ -22,3 +22,1618 @@ Headers:
 {"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"c97e9759-353f-418c-a917-63e32aac4f3b","GR-callId":"c97e9759-353f-418c-a917-63e32aac4f3b","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"45c9fb08-d774-4dbb-9cd8-88ba29f2b08f","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1","Content-Length":"0"}
 
 
+
+
+2023-04-24 17:00:22
+
+POST
+Request:
+/Order/V320/readCustomerOrderList?customerId=156839612
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"e251f490-b597-46e5-b90b-47d329335380","GR-callId":"e251f490-b597-46e5-b90b-47d329335380","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"53476763-0d70-4942-83a6-bd9b59ad5552","Content-Length":"65","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{
+"cusomerPhoneNumber": ,
+"CollectDigits_Telephone": 5194735317
+}
+
+
+2023-04-24 17:09:02
+
+POST
+Request:
+/Order/V320/readCustomerOrderList?customerId=156839612
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"4f4456dc-808b-416c-abfb-a33c9d68b709","GR-callId":"4f4456dc-808b-416c-abfb-a33c9d68b709","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"736722a3-6d2c-475e-872d-4daff36ac631","Content-Length":"65","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{
+"cusomerPhoneNumber": ,
+"CollectDigits_Telephone": 5194735317
+}
+
+
+2023-04-24 17:11:35
+
+POST
+Request:
+/Order/V320/readCustomerOrderList?customerId=156839612
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"1a8fd4b1-a8b8-4dcd-853b-b65bb8b2b47c","GR-callId":"1a8fd4b1-a8b8-4dcd-853b-b65bb8b2b47c","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"9c2d40d9-b647-4b85-9cc4-194dac409adc","Content-Length":"76","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{
+"customerPhoneNumber": 5194735317,
+"CollectDigits_Telephone": 5194735317
+}
+
+
+2023-04-25 08:22:28
+
+POST
+Request:
+/Order/V320/readCustomerOrderList?customerId=156839612
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"1e9b2613-376f-4938-b2e5-99e8849223c9","GR-callId":"1e9b2613-376f-4938-b2e5-99e8849223c9","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"fa56a7b3-ec46-47fb-9cb1-b95d2fa70a3e","Content-Length":"76","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{
+"customerPhoneNumber": 5194735317,
+"CollectDigits_Telephone": 5194735317
+}
+
+
+2023-04-25 08:23:50
+
+POST
+Request:
+/Order/V320/readCustomerOrderList?customerId=156839612
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"c92704b6-3713-448c-ab49-c379a1a5986d","GR-callId":"c92704b6-3713-448c-ab49-c379a1a5986d","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"8196f27f-9564-4246-ac81-ffa4787664b3","Content-Length":"76","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{
+"customerPhoneNumber": 5194735317,
+"CollectDigits_Telephone": 5194735317
+}
+
+
+2023-04-25 09:21:08
+
+POST
+Request:
+/Order/V320/readCustomerOrderList?customerId=156839612
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"369b8e14-8928-4b1d-bbb7-540d3efb46cf","GR-callId":"369b8e14-8928-4b1d-bbb7-540d3efb46cf","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"61e1aa12-fceb-4142-b691-cbfb4ad3bf9b","Content-Length":"346","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{expirationDate=20221101, orderNumber=051, motiveDistribution=null, orderDate=20220826, conveyorId=13, orderShippingDate=20220830, interactionChannelIdForOrder=null, orderStatus=4, invoiceAmount=1719, backEndIsnId=45788330, additionalInvoiceAmount=0, backEndfileNumber=44, shippingId=1Z5R286F2005829391, invoiceToPayAmount=2349, invoiceStatus=02}
+
+
+2023-04-25 09:23:27
+
+POST
+Request:
+/Order/V320/readCustomerOrderList?customerId=156839612
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"237c55d0-2cc4-4a46-8359-e517ed40b881","GR-callId":"237c55d0-2cc4-4a46-8359-e517ed40b881","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"6aaeb3b4-02cf-41b9-bda9-e8c7cce75187","Content-Length":"360","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{ "orders": {expirationDate=20221101, orderNumber=051, motiveDistribution=null, orderDate=20220826, conveyorId=13, orderShippingDate=20220830, interactionChannelIdForOrder=null, orderStatus=4, invoiceAmount=1719, backEndIsnId=45788330, additionalInvoiceAmount=0, backEndfileNumber=44, shippingId=1Z5R286F2005829391, invoiceToPayAmount=2349, invoiceStatus=02} }
+
+
+2023-04-25 09:24:49
+
+POST
+Request:
+/Order/V320/readCustomerOrderList?customerId=156839612
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"05a5528a-023f-450b-a0d4-aa25bf711c95","GR-callId":"05a5528a-023f-450b-a0d4-aa25bf711c95","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"793e6b79-672b-4bec-9349-66b4974131e7","Content-Length":"385","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{ "orders": {expirationDate=20221101, orderNumber=051, motiveDistribution=null, orderDate=20220826, conveyorId=13, orderShippingDate=20220830, interactionChannelIdForOrder=null, orderStatus=4, invoiceAmount=1719, backEndIsnId=45788330, additionalInvoiceAmount=0, backEndfileNumber=44, shippingId=1Z5R286F2005829391, invoiceToPayAmount=2349, invoiceStatus=02},
+"passwrod":  5194735317
+}
+
+
+2023-04-25 09:30:43
+
+POST
+Request:
+/Order/V320/readCustomerOrderList?customerId=156839612
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"fe3375e2-4834-4c27-8448-d03ea18c0146","GR-callId":"fe3375e2-4834-4c27-8448-d03ea18c0146","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"835dff81-51b4-47f5-9bb4-dcfb8150620c","Content-Length":"485","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{ "orders": {expirationDate=20221101, orderNumber=051, motiveDistribution=null, orderDate=20220826, conveyorId=13, orderShippingDate=20220830, interactionChannelIdForOrder=null, orderStatus=4, invoiceAmount=1719, backEndIsnId=45788330, additionalInvoiceAmount=0, backEndfileNumber=44, shippingId=1Z5R286F2005829391, invoiceToPayAmount=2349, invoiceStatus=02},
+    "name": TEST CINQ TEST,
+    "ordersNumber":  1,
+    "passwrod":  5194735317,
+    "telephone": 5194735317
+    "title": 2
+}
+
+
+2023-04-25 09:47:39
+
+POST
+Request:
+/Order/V320/readCustomerOrderList?customerId=156839612
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"abe17441-5b8b-44e7-8865-b90444514b53","GR-callId":"abe17441-5b8b-44e7-8865-b90444514b53","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"af2e44ea-5534-40e1-a4dc-4b985db04991","Content-Length":"485","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{ "orders": {expirationDate=20221101, orderNumber=051, motiveDistribution=null, orderDate=20220826, conveyorId=13, orderShippingDate=20220830, interactionChannelIdForOrder=null, orderStatus=4, invoiceAmount=1719, backEndIsnId=45788330, additionalInvoiceAmount=0, backEndfileNumber=44, shippingId=1Z5R286F2005829391, invoiceToPayAmount=2349, invoiceStatus=02},
+    "name": TEST CINQ TEST,
+    "ordersNumber":  1,
+    "password":  5194735317,
+    "telephone": 5194735317
+    "title": 2
+}
+
+
+2023-04-25 09:51:53
+
+POST
+Request:
+/Order/V320/readCustomerOrderList?customerId=156839612
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"0cc1a067-7742-426b-8b54-b31a4006874a","GR-callId":"0cc1a067-7742-426b-8b54-b31a4006874a","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"5146969e-278c-468e-8d86-b636b0612bc7","Content-Length":"485","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{ "orders": {expirationDate=20221101, orderNumber=051, motiveDistribution=null, orderDate=20220826, conveyorId=13, orderShippingDate=20220830, interactionChannelIdForOrder=null, orderStatus=4, invoiceAmount=1719, backEndIsnId=45788330, additionalInvoiceAmount=0, backEndfileNumber=44, shippingId=1Z5R286F2005829391, invoiceToPayAmount=2349, invoiceStatus=02},
+    "name": TEST CINQ TEST,
+    "ordersNumber":  1,
+    "password":  5194735317,
+    "telephone": 5194735317
+    "title": 2
+}
+
+
+2023-04-25 09:53:02
+
+POST
+Request:
+/Order/V320/readCustomerOrderList?customerId=156839612
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"cdc6085f-b9f7-436d-9de6-7d9119bbc9f3","GR-callId":"cdc6085f-b9f7-436d-9de6-7d9119bbc9f3","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"1cba7497-ba80-424f-8f00-f4003afbad99","Content-Length":"485","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{ "orders": {expirationDate=20221101, orderNumber=051, motiveDistribution=null, orderDate=20220826, conveyorId=13, orderShippingDate=20220830, interactionChannelIdForOrder=null, orderStatus=4, invoiceAmount=1719, backEndIsnId=45788330, additionalInvoiceAmount=0, backEndfileNumber=44, shippingId=1Z5R286F2005829391, invoiceToPayAmount=2349, invoiceStatus=02},
+    "name": TEST CINQ TEST,
+    "ordersNumber":  1,
+    "password":  5194735317,
+    "telephone": 5194735317
+    "title": 2
+}
+
+
+2023-04-25 09:58:35
+
+POST
+Request:
+/Order/V320/readCustomerOrderList?customerId=156839612
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"5c3cbb3f-da51-4845-a321-68ba9b3fe6ce","GR-callId":"5c3cbb3f-da51-4845-a321-68ba9b3fe6ce","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"6149a5d7-1001-4b29-9487-c8b1a37cedab","Content-Length":"485","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{ "orders": {expirationDate=20221101, orderNumber=051, motiveDistribution=null, orderDate=20220826, conveyorId=13, orderShippingDate=20220830, interactionChannelIdForOrder=null, orderStatus=4, invoiceAmount=1719, backEndIsnId=45788330, additionalInvoiceAmount=0, backEndfileNumber=44, shippingId=1Z5R286F2005829391, invoiceToPayAmount=2349, invoiceStatus=02},
+    "name": TEST CINQ TEST,
+    "ordersNumber":  1,
+    "password":  5194735317,
+    "telephone": 5194735317
+    "title": 2
+}
+
+
+2023-04-25 09:59:05
+
+POST
+Request:
+/Order/V320/readCustomerOrderList?customerId=156839612
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"3605361e-9f68-4acb-b586-f8397bcc99b6","GR-callId":"3605361e-9f68-4acb-b586-f8397bcc99b6","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"4a9b248f-4b51-4434-adfb-3dd99a061164","Content-Length":"485","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{ "orders": {expirationDate=20221101, orderNumber=051, motiveDistribution=null, orderDate=20220826, conveyorId=13, orderShippingDate=20220830, interactionChannelIdForOrder=null, orderStatus=4, invoiceAmount=1719, backEndIsnId=45788330, additionalInvoiceAmount=0, backEndfileNumber=44, shippingId=1Z5R286F2005829391, invoiceToPayAmount=2349, invoiceStatus=02},
+    "name": TEST CINQ TEST,
+    "ordersNumber":  1,
+    "password":  5194735317,
+    "telephone": 5194735317
+    "title": 2
+}
+
+
+2023-04-25 10:35:23
+
+POST
+Request:
+/Order/V320/readCustomerOrderList?customerId=156839612
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"2a7e756c-349b-4a35-8ace-9abbb14f93cd","GR-callId":"2a7e756c-349b-4a35-8ace-9abbb14f93cd","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"28b4df33-97de-473e-8628-34bf0ad45604","Content-Length":"485","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{ "orders": {expirationDate=20221101, orderNumber=051, motiveDistribution=null, orderDate=20220826, conveyorId=13, orderShippingDate=20220830, interactionChannelIdForOrder=null, orderStatus=4, invoiceAmount=1719, backEndIsnId=45788330, additionalInvoiceAmount=0, backEndfileNumber=44, shippingId=1Z5R286F2005829391, invoiceToPayAmount=2349, invoiceStatus=02},
+    "name": TEST CINQ TEST,
+    "ordersNumber":  1,
+    "password":  5194735317,
+    "telephone": 5194735317
+    "title": 2
+}
+
+
+2023-04-25 10:41:25
+
+POST
+Request:
+/Order/V320/readCustomerOrderList?customerId=156839612
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"52c9844c-d74c-4565-b061-808b91e249f9","GR-callId":"52c9844c-d74c-4565-b061-808b91e249f9","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"bee78ea8-10f0-414e-a1e8-bb73b69e68a0","Content-Length":"485","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{ "orders": {expirationDate=20221101, orderNumber=051, motiveDistribution=null, orderDate=20220826, conveyorId=13, orderShippingDate=20220830, interactionChannelIdForOrder=null, orderStatus=4, invoiceAmount=1719, backEndIsnId=45788330, additionalInvoiceAmount=0, backEndfileNumber=44, shippingId=1Z5R286F2005829391, invoiceToPayAmount=2349, invoiceStatus=02},
+    "name": TEST CINQ TEST,
+    "ordersNumber":  1,
+    "password":  5194735317,
+    "telephone": 5194735317
+    "title": 2
+}
+
+
+2023-04-25 10:50:25
+
+POST
+Request:
+/Order/V320/readCustomerOrderList?customerId=156839612
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"a0cf5a60-005f-4c4f-9406-91e5c499766e","GR-callId":"a0cf5a60-005f-4c4f-9406-91e5c499766e","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"46bf1776-0941-49e4-90c9-744890af7383","Content-Length":"485","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{ "orders": {expirationDate=20221101, orderNumber=051, motiveDistribution=null, orderDate=20220826, conveyorId=13, orderShippingDate=20220830, interactionChannelIdForOrder=null, orderStatus=4, invoiceAmount=1719, backEndIsnId=45788330, additionalInvoiceAmount=0, backEndfileNumber=44, shippingId=1Z5R286F2005829391, invoiceToPayAmount=2349, invoiceStatus=02},
+    "name": TEST CINQ TEST,
+    "ordersNumber":  1,
+    "password":  5194735317,
+    "telephone": 5194735317
+    "title": 2
+}
+
+
+2023-04-25 10:51:09
+
+POST
+Request:
+/Order/V320/readCustomerOrderList?customerId=156839612
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"9d3d01ab-5405-431b-958a-df36c51c09b4","GR-callId":"9d3d01ab-5405-431b-958a-df36c51c09b4","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"056e7754-82f7-428c-b52c-af0edd48b2b8","Content-Length":"485","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{ "orders": {expirationDate=20221101, orderNumber=051, motiveDistribution=null, orderDate=20220826, conveyorId=13, orderShippingDate=20220830, interactionChannelIdForOrder=null, orderStatus=4, invoiceAmount=1719, backEndIsnId=45788330, additionalInvoiceAmount=0, backEndfileNumber=44, shippingId=1Z5R286F2005829391, invoiceToPayAmount=2349, invoiceStatus=02},
+    "name": TEST CINQ TEST,
+    "ordersNumber":  1,
+    "password":  5194735317,
+    "telephone": 5194735317
+    "title": 2
+}
+
+
+2023-04-25 10:56:26
+
+POST
+Request:
+/Order/V320/readCustomerOrderList?customerId=156839612
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"ee489bec-edb3-48a0-bf32-377266ba1207","GR-callId":"ee489bec-edb3-48a0-bf32-377266ba1207","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"d6ccdde3-2af4-4812-aaaf-455963209214","Content-Length":"485","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{ "orders": {expirationDate=20221101, orderNumber=051, motiveDistribution=null, orderDate=20220826, conveyorId=13, orderShippingDate=20220830, interactionChannelIdForOrder=null, orderStatus=4, invoiceAmount=1719, backEndIsnId=45788330, additionalInvoiceAmount=0, backEndfileNumber=44, shippingId=1Z5R286F2005829391, invoiceToPayAmount=2349, invoiceStatus=02},
+    "name": TEST CINQ TEST,
+    "ordersNumber":  1,
+    "password":  5194735317,
+    "telephone": 5194735317
+    "title": 2
+}
+
+
+2023-04-25 10:58:45
+
+POST
+Request:
+/Order/V320/readCustomerOrderList?customerId=156839612
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"fb57bc1e-81bb-4098-94d9-ebcd5437dd5a","GR-callId":"fb57bc1e-81bb-4098-94d9-ebcd5437dd5a","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"c989d436-abbb-482e-b651-b96319b0f3b4","Content-Length":"485","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{ "orders": {expirationDate=20221101, orderNumber=051, motiveDistribution=null, orderDate=20220826, conveyorId=13, orderShippingDate=20220830, interactionChannelIdForOrder=null, orderStatus=4, invoiceAmount=1719, backEndIsnId=45788330, additionalInvoiceAmount=0, backEndfileNumber=44, shippingId=1Z5R286F2005829391, invoiceToPayAmount=2349, invoiceStatus=02},
+    "name": TEST CINQ TEST,
+    "ordersNumber":  1,
+    "password":  5194735317,
+    "telephone": 5194735317
+    "title": 2
+}
+
+
+2023-04-25 11:02:25
+
+POST
+Request:
+/Order/V320/readCustomerOrderList?customerId=156839612
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"bd64b8ed-79c3-409b-a3c4-fcdc3d0cdf3c","GR-callId":"bd64b8ed-79c3-409b-a3c4-fcdc3d0cdf3c","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"33211f4e-f5b5-495f-9ac5-13781531910c","Content-Length":"485","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{ "orders": {expirationDate=20221101, orderNumber=051, motiveDistribution=null, orderDate=20220826, conveyorId=13, orderShippingDate=20220830, interactionChannelIdForOrder=null, orderStatus=4, invoiceAmount=1719, backEndIsnId=45788330, additionalInvoiceAmount=0, backEndfileNumber=44, shippingId=1Z5R286F2005829391, invoiceToPayAmount=2349, invoiceStatus=02},
+    "name": TEST CINQ TEST,
+    "ordersNumber":  1,
+    "password":  5194735317,
+    "telephone": 5194735317
+    "title": 2
+}
+
+
+2023-04-25 11:04:14
+
+POST
+Request:
+/PaymentOTP/V1/orders/156839612/payment:
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"bd64b8ed-79c3-409b-a3c4-fcdc3d0cdf3c","GR-callId":"bd64b8ed-79c3-409b-a3c4-fcdc3d0cdf3c","GR-application":"CISCO-Postman","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"d35594f2-61b7-4d5f-8499-6b71661970aa","Content-Length":"352","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{
+    "paymentData": [
+        {
+            "backEndIsnId": 45788330,
+            "backEndfileNumber": 44,
+            "orderNumber": "0"
+        }
+    ],
+    "creditCardData": {
+        "creditCardNumber": "5546112377899963",
+        "creditCardExpirationMonthYear": "0326",
+        "creditCardCryptogram": 632,
+        "creditCardType": "VI"
+    }
+}
+
+
+2023-04-25 11:10:01
+
+POST
+Request:
+/Order/V320/readCustomerOrderList?customerId=156839612
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"9c7fda27-9c97-40e9-bb61-753e02e2fe80","GR-callId":"9c7fda27-9c97-40e9-bb61-753e02e2fe80","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"430b2213-3c1d-4ed6-8929-b1af477becda","Content-Length":"485","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{ "orders": {expirationDate=20221101, orderNumber=051, motiveDistribution=null, orderDate=20220826, conveyorId=13, orderShippingDate=20220830, interactionChannelIdForOrder=null, orderStatus=4, invoiceAmount=1719, backEndIsnId=45788330, additionalInvoiceAmount=0, backEndfileNumber=44, shippingId=1Z5R286F2005829391, invoiceToPayAmount=2349, invoiceStatus=02},
+    "name": TEST CINQ TEST,
+    "ordersNumber":  1,
+    "password":  5194735317,
+    "telephone": 5194735317
+    "title": 2
+}
+
+
+2023-04-25 11:11:11
+
+POST
+Request:
+/PaymentOTP/V1/orders/156839612/payment:
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"9c7fda27-9c97-40e9-bb61-753e02e2fe80","GR-callId":"9c7fda27-9c97-40e9-bb61-753e02e2fe80","GR-application":"CISCO-Postman","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"26ed0770-acee-44ff-8b21-0dd2205c4251","Content-Length":"353","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{
+    "paymentData": [
+        {
+            "backEndIsnId": 45788330,
+            "backEndfileNumber": 44,
+            "orderNumber": "51"
+        }
+    ],
+    "creditCardData": {
+        "creditCardNumber": "4415441544154415",
+        "creditCardExpirationMonthYear": "1223",
+        "creditCardCryptogram": 123,
+        "creditCardType": "AE"
+    }
+}
+
+
+2023-04-25 11:18:17
+
+POST
+Request:
+/Order/V320/readCustomerOrderList?customerId=156839612
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"5e5bf4c5-89da-4a40-b40a-e15ae21185ac","GR-callId":"5e5bf4c5-89da-4a40-b40a-e15ae21185ac","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"d52d6d50-30f0-4ff2-8e37-25c75afdcf3e","Content-Length":"485","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{ "orders": {expirationDate=20221101, orderNumber=051, motiveDistribution=null, orderDate=20220826, conveyorId=13, orderShippingDate=20220830, interactionChannelIdForOrder=null, orderStatus=4, invoiceAmount=1719, backEndIsnId=45788330, additionalInvoiceAmount=0, backEndfileNumber=44, shippingId=1Z5R286F2005829391, invoiceToPayAmount=2349, invoiceStatus=02},
+    "name": TEST CINQ TEST,
+    "ordersNumber":  1,
+    "password":  5194735317,
+    "telephone": 5194735317
+    "title": 2
+}
+
+
+2023-04-25 11:27:48
+
+POST
+Request:
+/Order/V320/readCustomerOrderList?customerId=156839612
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"a31a53e3-98f7-4550-9152-a76c3bdc716e","GR-callId":"a31a53e3-98f7-4550-9152-a76c3bdc716e","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"e496f9ff-57e2-4a1f-b4c7-2b7a1249e880","Content-Length":"485","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{ "orders": {expirationDate=20221101, orderNumber=051, motiveDistribution=null, orderDate=20220826, conveyorId=13, orderShippingDate=20220830, interactionChannelIdForOrder=null, orderStatus=4, invoiceAmount=1719, backEndIsnId=45788330, additionalInvoiceAmount=0, backEndfileNumber=44, shippingId=1Z5R286F2005829391, invoiceToPayAmount=2349, invoiceStatus=02},
+    "name": TEST CINQ TEST,
+    "ordersNumber":  1,
+    "password":  5194735317,
+    "telephone": 5194735317
+    "title": 2
+}
+
+
+2023-04-25 11:29:01
+
+POST
+Request:
+/PaymentOTP/V1/orders/156839612/payment:
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"a31a53e3-98f7-4550-9152-a76c3bdc716e","GR-callId":"a31a53e3-98f7-4550-9152-a76c3bdc716e","GR-application":"CISCO-Postman","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"4b816ac7-a075-44db-8e6d-3bb150b4353b","Content-Length":"353","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{
+    "paymentData": [
+        {
+            "backEndIsnId": 45788330,
+            "backEndfileNumber": 44,
+            "orderNumber": "51"
+        }
+    ],
+    "creditCardData": {
+        "creditCardNumber": "9874123698741236",
+        "creditCardExpirationMonthYear": "0825",
+        "creditCardCryptogram": 523,
+        "creditCardType": "VI"
+    }
+}
+
+
+2023-04-25 11:31:39
+
+POST
+Request:
+/PaymentOTP/V1/orders/156839612/payment
+
+Headers:
+{"Content-Type":"application\/json","User-Agent":"PostmanRuntime\/7.32.2","Accept":"*\/*","Postman-Token":"ec3896fe-291e-4b1b-bef3-21d29cb38c2a","Host":"www.3csh.ca","Accept-Encoding":"gzip, deflate, br","Connection":"keep-alive","Content-Length":"353","X-HTTPS":"1"}
+
+{
+    "paymentData": [
+        {
+            "backEndIsnId": 45788330,
+            "backEndfileNumber": 44,
+            "orderNumber": "51"
+        }
+    ],
+    "creditCardData": {
+        "creditCardNumber": "5555698745632541",
+        "creditCardExpirationMonthYear": "1223",
+        "creditCardCryptogram": 456,
+        "creditCardType": "MC"
+    }
+}
+
+
+2023-04-25 11:38:58
+
+POST
+Request:
+/PaymentOTP/V1/orders/156839612/payment
+
+Headers:
+{"Content-Type":"application\/json","User-Agent":"PostmanRuntime\/7.32.2","Accept":"*\/*","Postman-Token":"6acafd7d-d197-4015-aad3-086eb6588eda","Host":"www.3csh.ca","Accept-Encoding":"gzip, deflate, br","Connection":"keep-alive","Content-Length":"353","X-HTTPS":"1"}
+
+{
+    "paymentData": [
+        {
+            "backEndIsnId": 45788330,
+            "backEndfileNumber": 44,
+            "orderNumber": "51"
+        }
+    ],
+    "creditCardData": {
+        "creditCardNumber": "5555698745632541",
+        "creditCardExpirationMonthYear": "1223",
+        "creditCardCryptogram": 456,
+        "creditCardType": "MC"
+    }
+}
+
+
+2023-04-25 11:41:26
+
+POST
+Request:
+/PaymentOTP/V1/orders/156839612/payment
+
+Headers:
+{"Content-Type":"application\/json","User-Agent":"PostmanRuntime\/7.32.2","Accept":"*\/*","Postman-Token":"5a19e9b4-9f60-4832-8e87-314229e8547e","Host":"www.3csh.ca","Accept-Encoding":"gzip, deflate, br","Connection":"keep-alive","Content-Length":"353","X-HTTPS":"1"}
+
+{
+    "paymentData": [
+        {
+            "backEndIsnId": 45788330,
+            "backEndfileNumber": 44,
+            "orderNumber": "51"
+        }
+    ],
+    "creditCardData": {
+        "creditCardNumber": "5555698745632541",
+        "creditCardExpirationMonthYear": "1223",
+        "creditCardCryptogram": 456,
+        "creditCardType": "MC"
+    }
+}
+
+
+2023-04-25 11:42:32
+
+POST
+Request:
+/PaymentOTP/V1/orders/156839612/payment
+
+Headers:
+{"Content-Type":"application\/json","User-Agent":"PostmanRuntime\/7.32.2","Accept":"*\/*","Postman-Token":"82df1493-6e9c-45a0-a281-6ba114da65f2","Host":"www.3csh.ca","Accept-Encoding":"gzip, deflate, br","Connection":"keep-alive","Content-Length":"353","X-HTTPS":"1"}
+
+{
+    "paymentData": [
+        {
+            "backEndIsnId": 45788330,
+            "backEndfileNumber": 44,
+            "orderNumber": "51"
+        }
+    ],
+    "creditCardData": {
+        "creditCardNumber": "5555698745632541",
+        "creditCardExpirationMonthYear": "1223",
+        "creditCardCryptogram": 456,
+        "creditCardType": "MC"
+    }
+}
+
+
+2023-04-25 11:43:02
+
+POST
+Request:
+/PaymentOTP/V1/orders/156839612/payment
+
+Headers:
+{"Content-Type":"application\/json","User-Agent":"PostmanRuntime\/7.32.2","Accept":"*\/*","Postman-Token":"6158d5ce-38dc-4613-a4f0-8489b20cf3c3","Host":"www.3csh.ca","Accept-Encoding":"gzip, deflate, br","Connection":"keep-alive","Content-Length":"353","X-HTTPS":"1"}
+
+{
+    "paymentData": [
+        {
+            "backEndIsnId": 45788330,
+            "backEndfileNumber": 44,
+            "orderNumber": "51"
+        }
+    ],
+    "creditCardData": {
+        "creditCardNumber": "5555698745632541",
+        "creditCardExpirationMonthYear": "1223",
+        "creditCardCryptogram": 456,
+        "creditCardType": "MC"
+    }
+}
+
+
+2023-04-25 11:43:07
+
+GET
+Request:
+/PaymentOTP/V1/orders/156839612/payment
+
+Headers:
+{"Content-Type":"application\/json","User-Agent":"PostmanRuntime\/7.32.2","Accept":"*\/*","Postman-Token":"06120169-31f4-455e-9e2e-9146ef397167","Host":"www.3csh.ca","Accept-Encoding":"gzip, deflate, br","Connection":"keep-alive","Content-Length":"0","X-HTTPS":"1"}
+
+
+
+
+2023-04-25 11:43:15
+
+POST
+Request:
+/PaymentOTP/V1/orders/156839612/payment
+
+Headers:
+{"Content-Type":"application\/json","User-Agent":"PostmanRuntime\/7.32.2","Accept":"*\/*","Postman-Token":"4650aabb-c0ff-47df-a6ed-7c62866fe6d8","Host":"www.3csh.ca","Accept-Encoding":"gzip, deflate, br","Connection":"keep-alive","Content-Length":"353","X-HTTPS":"1"}
+
+{
+    "paymentData": [
+        {
+            "backEndIsnId": 45788330,
+            "backEndfileNumber": 44,
+            "orderNumber": "51"
+        }
+    ],
+    "creditCardData": {
+        "creditCardNumber": "5555698745632541",
+        "creditCardExpirationMonthYear": "1223",
+        "creditCardCryptogram": 456,
+        "creditCardType": "MC"
+    }
+}
+
+
+2023-04-25 11:44:24
+
+POST
+Request:
+/Order/V320/readCustomerOrderList?customerId=156839612
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"756e9f21-f140-4e27-a36b-40bba54a6f14","GR-callId":"756e9f21-f140-4e27-a36b-40bba54a6f14","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"f0f50422-511d-4f23-bfe3-9d2b95636c40","Content-Length":"485","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{ "orders": {expirationDate=20221101, orderNumber=051, motiveDistribution=null, orderDate=20220826, conveyorId=13, orderShippingDate=20220830, interactionChannelIdForOrder=null, orderStatus=4, invoiceAmount=1719, backEndIsnId=45788330, additionalInvoiceAmount=0, backEndfileNumber=44, shippingId=1Z5R286F2005829391, invoiceToPayAmount=2349, invoiceStatus=02},
+    "name": TEST CINQ TEST,
+    "ordersNumber":  1,
+    "password":  5194735317,
+    "telephone": 5194735317
+    "title": 2
+}
+
+
+2023-04-26 17:57:00
+
+POST
+Request:
+/Order/V320/readCustomerOrderList?customerId=156839612
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"61adbe45-c843-45d9-8f39-3234e0b2b63e","GR-callId":"61adbe45-c843-45d9-8f39-3234e0b2b63e","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"0382c3bf-9969-4ba5-9b9d-481c2caa9d96","Content-Length":"485","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{ "orders": {expirationDate=20221101, orderNumber=051, motiveDistribution=null, orderDate=20220826, conveyorId=13, orderShippingDate=20220830, interactionChannelIdForOrder=null, orderStatus=4, invoiceAmount=1719, backEndIsnId=45788330, additionalInvoiceAmount=0, backEndfileNumber=44, shippingId=1Z5R286F2005829391, invoiceToPayAmount=2349, invoiceStatus=02},
+    "name": TEST CINQ TEST,
+    "ordersNumber":  1,
+    "password":  5194735317,
+    "telephone": 5194735317
+    "title": 2
+}
+
+
+2023-04-27 07:56:30
+
+POST
+Request:
+/Order/V320/readCustomerOrderList?customerId=115683960
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"24a25372-c95d-4ff3-a9de-a8d7ec686797","GR-callId":"24a25372-c95d-4ff3-a9de-a8d7ec686797","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"530733e3-431f-4a3d-8872-164ff2ca17b1","Content-Length":"116","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{ "orders": [],
+    "name": ,
+    "ordersNumber":  0,
+    "password":  ,
+    "telephone": 4049934463
+    "title": 
+}
+
+
+2023-04-27 08:01:00
+
+POST
+Request:
+/Order/V320/readCustomerOrderList?customerId=115683960
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"e5f16642-611e-4603-886f-949f90dc85cf","GR-callId":"e5f16642-611e-4603-886f-949f90dc85cf","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"a1c2e85d-cc72-4ace-bf1a-cb14833385c9","Content-Length":"116","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{ "orders": [],
+    "name": ,
+    "ordersNumber":  0,
+    "password":  ,
+    "telephone": 4049934463
+    "title": 
+}
+
+
+2023-04-27 08:02:35
+
+POST
+Request:
+/Order/V320/readCustomerOrderList?customerId=156839604
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"bc21e60a-efd5-4264-ac53-e6979a1e0c2b","GR-callId":"bc21e60a-efd5-4264-ac53-e6979a1e0c2b","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"0001e617-612e-45fd-9ca0-234bc95ed176","Content-Length":"1174","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{ "orders": [{expirationDate=20221101, orderNumber=071, motiveDistribution=null, orderDate=20220826, conveyorId=13, orderShippingDate=20220830, interactionChannelIdForOrder=null, orderStatus=4, invoiceAmount=1259, backEndIsnId=45787964, additionalInvoiceAmount=0, backEndfileNumber=44, shippingId=1Z5R286F2005829382, invoiceToPayAmount=0, invoiceStatus=05}, {expirationDate=20221101, orderNumber=061, motiveDistribution=null, orderDate=20220826, conveyorId=13, orderShippingDate=20220830, interactionChannelIdForOrder=null, orderStatus=4, invoiceAmount=1719, backEndIsnId=45787973, additionalInvoiceAmount=0, backEndfileNumber=44, shippingId=1Z5R286F2005829373, invoiceToPayAmount=0, invoiceStatus=05}, {expirationDate=20210119, orderNumber=021, motiveDistribution=null, orderDate=20201113, conveyorId=13, orderShippingDate=20201117, interactionChannelIdForOrder=null, orderStatus=4, invoiceAmount=1489, backEndIsnId=44978213, additionalInvoiceAmount=0, backEndfileNumber=44, shippingId=1Z5R286F2000985114, invoiceToPayAmount=0, invoiceStatus=07}],
+    "name": TEST CINQ TEST,
+    "ordersNumber":  3,
+    "password":  4049934463,
+    "telephone": 4049934463
+    "title": 2
+}
+
+
+2023-04-27 08:08:26
+
+POST
+Request:
+/Order/V320/readCustomerOrderList?customerId=115683960
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"0f340c3c-8091-447a-94dd-418ab491c77f","GR-callId":"0f340c3c-8091-447a-94dd-418ab491c77f","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"a2db723a-feca-47c1-8c7b-ebd0f8e60d93","Content-Length":"116","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{ "orders": [],
+    "name": ,
+    "ordersNumber":  0,
+    "password":  ,
+    "telephone": 4049934463
+    "title": 
+}
+
+
+2023-04-27 08:09:32
+
+POST
+Request:
+/Order/V320/readCustomerOrderList?customerId=156839604
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"e120be78-98e6-41a3-be61-9ecc5ec58db8","GR-callId":"e120be78-98e6-41a3-be61-9ecc5ec58db8","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"04a570a5-bc76-4749-8a57-f2caa30a09ba","Content-Length":"1174","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{ "orders": [{expirationDate=20221101, orderNumber=071, motiveDistribution=null, orderDate=20220826, conveyorId=13, orderShippingDate=20220830, interactionChannelIdForOrder=null, orderStatus=4, invoiceAmount=1259, backEndIsnId=45787964, additionalInvoiceAmount=0, backEndfileNumber=44, shippingId=1Z5R286F2005829382, invoiceToPayAmount=0, invoiceStatus=05}, {expirationDate=20221101, orderNumber=061, motiveDistribution=null, orderDate=20220826, conveyorId=13, orderShippingDate=20220830, interactionChannelIdForOrder=null, orderStatus=4, invoiceAmount=1719, backEndIsnId=45787973, additionalInvoiceAmount=0, backEndfileNumber=44, shippingId=1Z5R286F2005829373, invoiceToPayAmount=0, invoiceStatus=05}, {expirationDate=20210119, orderNumber=021, motiveDistribution=null, orderDate=20201113, conveyorId=13, orderShippingDate=20201117, interactionChannelIdForOrder=null, orderStatus=4, invoiceAmount=1489, backEndIsnId=44978213, additionalInvoiceAmount=0, backEndfileNumber=44, shippingId=1Z5R286F2000985114, invoiceToPayAmount=0, invoiceStatus=07}],
+    "name": TEST CINQ TEST,
+    "ordersNumber":  3,
+    "password":  4049934463,
+    "telephone": 4049934463
+    "title": 2
+}
+
+
+2023-04-27 08:26:07
+
+POST
+Request:
+/Order/V320/readCustomerOrderList?customerId=156839604
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"41537d91-e319-4edc-88a6-bf468779dc1e","GR-callId":"41537d91-e319-4edc-88a6-bf468779dc1e","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"b3511fbd-92f1-4d7a-a6e6-4222a7ace42b","Content-Length":"1174","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{ "orders": [{expirationDate=20221101, orderNumber=071, motiveDistribution=null, orderDate=20220826, conveyorId=13, orderShippingDate=20220830, interactionChannelIdForOrder=null, orderStatus=4, invoiceAmount=1259, backEndIsnId=45787964, additionalInvoiceAmount=0, backEndfileNumber=44, shippingId=1Z5R286F2005829382, invoiceToPayAmount=0, invoiceStatus=05}, {expirationDate=20221101, orderNumber=061, motiveDistribution=null, orderDate=20220826, conveyorId=13, orderShippingDate=20220830, interactionChannelIdForOrder=null, orderStatus=4, invoiceAmount=1719, backEndIsnId=45787973, additionalInvoiceAmount=0, backEndfileNumber=44, shippingId=1Z5R286F2005829373, invoiceToPayAmount=0, invoiceStatus=05}, {expirationDate=20210119, orderNumber=021, motiveDistribution=null, orderDate=20201113, conveyorId=13, orderShippingDate=20201117, interactionChannelIdForOrder=null, orderStatus=4, invoiceAmount=1489, backEndIsnId=44978213, additionalInvoiceAmount=0, backEndfileNumber=44, shippingId=1Z5R286F2000985114, invoiceToPayAmount=0, invoiceStatus=07}],
+    "name": TEST CINQ TEST,
+    "ordersNumber":  3,
+    "password":  4049934463,
+    "telephone": 4049934463
+    "title": 2
+}
+
+
+2023-04-27 08:33:20
+
+POST
+Request:
+/Order/V320/readCustomerOrderList?customerId=156839604
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"59e0c98a-75e8-4cf6-96d8-b3eeef704cf4","GR-callId":"59e0c98a-75e8-4cf6-96d8-b3eeef704cf4","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"cc117969-3660-4d4e-ad84-43f9748c1c5f","Content-Length":"1174","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{ "orders": [{expirationDate=20221101, orderNumber=071, motiveDistribution=null, orderDate=20220826, conveyorId=13, orderShippingDate=20220830, interactionChannelIdForOrder=null, orderStatus=4, invoiceAmount=1259, backEndIsnId=45787964, additionalInvoiceAmount=0, backEndfileNumber=44, shippingId=1Z5R286F2005829382, invoiceToPayAmount=0, invoiceStatus=05}, {expirationDate=20221101, orderNumber=061, motiveDistribution=null, orderDate=20220826, conveyorId=13, orderShippingDate=20220830, interactionChannelIdForOrder=null, orderStatus=4, invoiceAmount=1719, backEndIsnId=45787973, additionalInvoiceAmount=0, backEndfileNumber=44, shippingId=1Z5R286F2005829373, invoiceToPayAmount=0, invoiceStatus=05}, {expirationDate=20210119, orderNumber=021, motiveDistribution=null, orderDate=20201113, conveyorId=13, orderShippingDate=20201117, interactionChannelIdForOrder=null, orderStatus=4, invoiceAmount=1489, backEndIsnId=44978213, additionalInvoiceAmount=0, backEndfileNumber=44, shippingId=1Z5R286F2000985114, invoiceToPayAmount=0, invoiceStatus=07}],
+    "name": TEST CINQ TEST,
+    "ordersNumber":  3,
+    "password":  4049934463,
+    "telephone": 4049934463
+    "title": 2
+}
+
+
+2023-04-27 08:36:43
+
+POST
+Request:
+/Order/V320/readCustomerOrderList?customerId=156839604
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"19cda7b9-de97-4f62-88fd-3bc1d30d046f","GR-callId":"19cda7b9-de97-4f62-88fd-3bc1d30d046f","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"83848249-d37d-4e67-931c-0a2c2b0f23d6","Content-Length":"1174","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{ "orders": [{expirationDate=20221101, orderNumber=071, motiveDistribution=null, orderDate=20220826, conveyorId=13, orderShippingDate=20220830, interactionChannelIdForOrder=null, orderStatus=4, invoiceAmount=1259, backEndIsnId=45787964, additionalInvoiceAmount=0, backEndfileNumber=44, shippingId=1Z5R286F2005829382, invoiceToPayAmount=0, invoiceStatus=05}, {expirationDate=20221101, orderNumber=061, motiveDistribution=null, orderDate=20220826, conveyorId=13, orderShippingDate=20220830, interactionChannelIdForOrder=null, orderStatus=4, invoiceAmount=1719, backEndIsnId=45787973, additionalInvoiceAmount=0, backEndfileNumber=44, shippingId=1Z5R286F2005829373, invoiceToPayAmount=0, invoiceStatus=05}, {expirationDate=20210119, orderNumber=021, motiveDistribution=null, orderDate=20201113, conveyorId=13, orderShippingDate=20201117, interactionChannelIdForOrder=null, orderStatus=4, invoiceAmount=1489, backEndIsnId=44978213, additionalInvoiceAmount=0, backEndfileNumber=44, shippingId=1Z5R286F2000985114, invoiceToPayAmount=0, invoiceStatus=07}],
+    "name": TEST CINQ TEST,
+    "ordersNumber":  3,
+    "password":  4049934463,
+    "telephone": 4049934463
+    "title": 2
+}
+
+
+2023-04-27 08:40:38
+
+POST
+Request:
+/Order/V320/readCustomerOrderList?customerId=156839612
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"871247f8-29fb-4bc3-ac38-8ba306ba63b4","GR-callId":"871247f8-29fb-4bc3-ac38-8ba306ba63b4","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"f8a13a07-389f-4307-b9c3-f1e0df190fbb","Content-Length":"485","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{ "orders": {expirationDate=20221101, orderNumber=051, motiveDistribution=null, orderDate=20220826, conveyorId=13, orderShippingDate=20220830, interactionChannelIdForOrder=null, orderStatus=4, invoiceAmount=1719, backEndIsnId=45788330, additionalInvoiceAmount=0, backEndfileNumber=44, shippingId=1Z5R286F2005829391, invoiceToPayAmount=2349, invoiceStatus=02},
+    "name": TEST CINQ TEST,
+    "ordersNumber":  1,
+    "password":  5194735317,
+    "telephone": 5194735317
+    "title": 2
+}
+
+
+2023-04-27 13:57:21
+
+POST
+Request:
+/Order/V320/readCustomerOrderList?customerId=987456321
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"c82fb9a0-71e1-4038-8d74-4954db88cc3c","GR-callId":"c82fb9a0-71e1-4038-8d74-4954db88cc3c","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"62f32723-5a93-4465-a061-8cc9ecc6ccb6","Content-Length":"116","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{ "orders": [],
+    "name": ,
+    "ordersNumber":  0,
+    "password":  ,
+    "telephone": 5713214569
+    "title": 
+}
+
+
+2023-04-27 14:23:39
+
+POST
+Request:
+/Order/V320/readCustomerOrderList?customerId=123456789
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"7c64dc9e-167c-4af3-85cc-07d19c112c87","GR-callId":"7c64dc9e-167c-4af3-85cc-07d19c112c87","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"75cc6ee1-914a-48f7-a0fc-49dab587df31","Content-Length":"116","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{ "orders": [],
+    "name": ,
+    "ordersNumber":  0,
+    "password":  ,
+    "telephone": 5149510635
+    "title": 
+}
+
+
+2023-04-28 11:12:56
+
+POST
+Request:
+/Order/V320/readCustomerOrderList?customerId=156839604
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"5ce15b13-2dd2-44c3-968d-90a9459f3ad4","GR-callId":"5ce15b13-2dd2-44c3-968d-90a9459f3ad4","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"d75583d5-e15c-476e-8764-9fa6a25e9afb","Content-Length":"8","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+[05, 05]
+
+
+2023-04-28 11:15:02
+
+POST
+Request:
+/Order/V320/readCustomerOrderList?customerId=156839604
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"2691f681-8b9d-4428-9e2a-8ac590947c85","GR-callId":"2691f681-8b9d-4428-9e2a-8ac590947c85","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"792c05b5-97df-4cd7-bcf1-41b449779c1f","Content-Length":"8","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+[05, 05]
+
+
+2023-04-28 11:19:48
+
+POST
+Request:
+/Order/V320/readCustomerOrderList?customerId=156839604
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"e355cd13-e6fe-4629-8da7-fe536d310500","GR-callId":"e355cd13-e6fe-4629-8da7-fe536d310500","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"f832cd1f-bfdb-4b66-b699-f4b46b2fe506","Content-Length":"48","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{"invoiceList": [05, 05],
+"unpaidInvoices": 30
+}
+
+
+2023-04-28 11:21:47
+
+POST
+Request:
+/Order/V320/readCustomerOrderList?customerId=156839604
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"2a2a8f81-996e-464c-98ac-d6165bbf8e34","GR-callId":"2a2a8f81-996e-464c-98ac-d6165bbf8e34","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"11b3fe23-f772-493f-bd39-9a1014b78e92","Content-Length":"47","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{"invoiceList": [05, 05],
+"unpaidInvoices": 0
+}
+
+
+2023-04-28 11:25:15
+
+POST
+Request:
+/Order/V320/readCustomerOrderList?customerId=156839604
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"fb563379-a60d-4199-8cc7-b9839903f188","GR-callId":"fb563379-a60d-4199-8cc7-b9839903f188","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"757af936-c45b-4ed8-8725-796b79fcc6bf","Content-Length":"47","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{"invoiceList": [05, 05],
+"unpaidInvoices": 0
+}
+
+
+2023-04-28 11:26:35
+
+POST
+Request:
+/Order/V320/readCustomerOrderList?customerId=156839604
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"442cc1fd-56c5-4b44-9a91-9ef295c64caa","GR-callId":"442cc1fd-56c5-4b44-9a91-9ef295c64caa","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"786025ee-6101-4db9-94a1-a73b292cbb91","Content-Length":"47","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{"invoiceList": [05, 05],
+"unpaidInvoices": 0
+}
+
+
+2023-04-28 11:29:31
+
+POST
+Request:
+/Order/V320/readCustomerOrderList?customerId=156839604
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"c2869008-5635-4c2a-9647-da2feca6e8e8","GR-callId":"c2869008-5635-4c2a-9647-da2feca6e8e8","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"adad9708-097b-43e5-bb0f-230dfab4c63a","Content-Length":"47","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{"invoiceList": [05, 05],
+"unpaidInvoices": 0
+}
+
+
+2023-04-28 13:56:43
+
+POST
+Request:
+/Order/V320/readCustomerOrderList?customerId=156839604
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"b02938e2-0555-4416-be15-6c7ebb9f83f5","GR-callId":"b02938e2-0555-4416-be15-6c7ebb9f83f5","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"39c8b68c-3373-4edf-b023-e2237defa264","Content-Length":"47","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{"invoiceList": [05, 05],
+"unpaidInvoices": 2
+}
+
+
+2023-04-28 15:18:07
+
+GET
+Request:
+/Order/V320/readCustomerOrderList
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","Content-Type":"application\/json","fc-tracking-id":"a153802d-ac11-4110-9387-dc4ca294b443","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1","Content-Length":"0"}
+
+
+
+
+2023-04-28 15:19:04
+
+POST
+Request:
+/Order/V320/readCustomerOrderList
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","Content-Type":"application\/json","fc-tracking-id":"bdf22225-2a18-4fb8-a73c-0a539264850f","Content-Length":"48","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{
+"customerId": 156839604,
+"telephoneNumber": 
+}
+
+
+2023-04-28 15:23:57
+
+POST
+Request:
+/Order/V320/readCustomerOrderList
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","Content-Type":"application\/json","fc-tracking-id":"05aca251-32b7-4089-a9ad-29bdb54523e8","Content-Length":"58","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{
+"customerId": 156839604,
+"telephoneNumber": 4049934463
+}
+
+
+2023-04-28 15:28:35
+
+POST
+Request:
+/Order/V320/readCustomerOrderList
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","Content-Type":"application\/json","fc-tracking-id":"9474c676-9bde-4c38-9f69-78c9e1af94db","Content-Length":"58","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{
+"customerId": 156839604,
+"telephoneNumber": 4049934463
+}
+
+
+2023-04-28 15:32:26
+
+POST
+Request:
+/Order/V320/readCustomerOrderList
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","Content-Type":"application\/json","fc-tracking-id":"abf50227-5429-40d2-97fb-365f8460fc57","Content-Length":"39","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{
+"customerId": ,
+"telephoneNumber": 
+}
+
+
+2023-04-28 15:33:25
+
+POST
+Request:
+/Order/V320/readCustomerOrderList
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","Content-Type":"application\/json","fc-tracking-id":"96ff00e8-578c-47ed-b724-0e496aad07d7","Content-Length":"39","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{
+"customerId": ,
+"telephoneNumber": 
+}
+
+
+2023-04-28 15:33:49
+
+POST
+Request:
+/Order/V320/readCustomerOrderList
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","Content-Type":"application\/json","fc-tracking-id":"8d97d7cd-e6b2-4e94-ad51-f21c7bcd6f4d","Content-Length":"39","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{
+"customerId": ,
+"telephoneNumber": 
+}
+
+
+2023-04-29 09:05:16
+
+POST
+Request:
+/Order/V320/readCustomerOrderList
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","Content-Type":"application\/json","fc-tracking-id":"3c1d0796-938c-4b4d-b1a3-f328ca9c7d36","Content-Length":"39","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{
+"customerId": ,
+"telephoneNumber": 
+}
+
+
+2023-04-29 09:05:40
+
+POST
+Request:
+/Order/V320/readCustomerOrderList
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","Content-Type":"application\/json","fc-tracking-id":"3cb06ee9-8463-435a-a4a3-f2bd4ff39f35","Content-Length":"39","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{
+"customerId": ,
+"telephoneNumber": 
+}
+
+
+2023-04-29 09:06:04
+
+POST
+Request:
+/Order/V320/readCustomerOrderList
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","Content-Type":"application\/json","fc-tracking-id":"a3edc5f1-0594-41fa-b221-575b71dfbe82","Content-Length":"39","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{
+"customerId": ,
+"telephoneNumber": 
+}
+
+
+2023-04-29 09:06:29
+
+POST
+Request:
+/Order/V320/readCustomerOrderList
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","Content-Type":"application\/json","fc-tracking-id":"69588529-77d5-4962-a942-d178b27634e5","Content-Length":"39","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{
+"customerId": ,
+"telephoneNumber": 
+}
+
+
+2023-04-29 09:17:38
+
+POST
+Request:
+/Order/V320/readCustomerOrderList
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","Content-Type":"application\/json","fc-tracking-id":"700f63ef-df19-4a0a-a249-18796a453306","Content-Length":"39","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{
+"customerId": ,
+"telephoneNumber": 
+}
+
+
+2023-04-29 09:17:50
+
+POST
+Request:
+/Order/V320/readCustomerOrderList
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","Content-Type":"application\/json","fc-tracking-id":"063e7c65-28ed-4e4e-8148-0911d2b77427","Content-Length":"58","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{
+"customerId": 156839604,
+"telephoneNumber": 4049934463
+}
+
+
+2023-04-29 10:30:15
+
+POST
+Request:
+/Order/V320/readCustomerOrderList?customerId=156839604
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"d3ac05ec-7c3b-41c6-835f-1106d6c77bd4","GR-callId":"d3ac05ec-7c3b-41c6-835f-1106d6c77bd4","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"23f3583a-d9a0-4458-beee-ab5d72289a7a","Content-Length":"47","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{"invoiceList": [05, 05],
+"unpaidInvoices": 2
+}
+
+
+2023-04-29 10:32:49
+
+POST
+Request:
+/Order/V320/readCustomerOrderList?customerId=156839604
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"eed2ced5-6b92-4935-926b-3ce84765beb0","GR-callId":"eed2ced5-6b92-4935-926b-3ce84765beb0","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"8f142f91-0c23-4d90-bb74-39d9824ca6f6","Content-Length":"47","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{"invoiceList": [05, 05],
+"unpaidInvoices": 2
+}
+
+
+2023-04-29 10:36:40
+
+POST
+Request:
+/Order/V320/readCustomerOrderList?customerId=156839604
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"a434e0da-aac9-4b5e-99d9-26c0ae159f35","GR-callId":"a434e0da-aac9-4b5e-99d9-26c0ae159f35","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"6be5e70d-2966-4fa4-a860-5640948c737c","Content-Length":"47","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{"invoiceList": [05, 05],
+"unpaidInvoices": 0
+}
+
+
+2023-04-29 10:37:36
+
+POST
+Request:
+/Order/V320/readCustomerOrderList?customerId=156839604
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"9affeb7a-e449-4bca-b9a9-72071b634b6c","GR-callId":"9affeb7a-e449-4bca-b9a9-72071b634b6c","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"9fa71e71-5df8-464b-ba04-8e8d267b2f39","Content-Length":"47","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{"invoiceList": [05, 05],
+"unpaidInvoices": 2
+}
+
+
+2023-04-29 10:41:39
+
+POST
+Request:
+/Order/V320/readCustomerOrderList?customerId=156839604
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"8c0d02e7-0392-48d1-a8a4-6215415ca8c4","GR-callId":"8c0d02e7-0392-48d1-a8a4-6215415ca8c4","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"93dea757-8c6f-41ce-a43e-344c061f8a77","Content-Length":"47","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{"invoiceList": [05, 05],
+"unpaidInvoices": 2
+}
+
+
+2023-04-29 10:44:43
+
+POST
+Request:
+/Order/V320/readCustomerOrderList?customerId=156839604
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"6afbdb12-f218-4134-930c-91ebbc549a7e","GR-callId":"6afbdb12-f218-4134-930c-91ebbc549a7e","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"e09c5612-2083-4e0e-bae8-d685b200647b","Content-Length":"47","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{"invoiceList": [05, 05],
+"unpaidInvoices": 2
+}
+
+
+2023-04-29 11:07:50
+
+POST
+Request:
+/Order/V320/readCustomerOrderList?customerId=156839604
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"7cac6944-4948-420c-ad88-6f179c2621d6","GR-callId":"7cac6944-4948-420c-ad88-6f179c2621d6","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"59d475a6-75c3-4dae-80ee-56aaadd9e62b","Content-Length":"47","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{"invoiceList": [05, 05],
+"unpaidInvoices": 0
+}
+
+
+2023-04-29 11:08:14
+
+POST
+Request:
+/Order/V320/readCustomerOrderList?customerId=156839604
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"21e47ba4-ce49-4fd9-988f-1850d76cb1d4","GR-callId":"21e47ba4-ce49-4fd9-988f-1850d76cb1d4","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"0b9c05ce-0bd9-403f-bad7-6b85c2a5cbbb","Content-Length":"47","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{"invoiceList": [05, 05],
+"unpaidInvoices": 0
+}
+
+
+2023-05-01 08:06:56
+
+POST
+Request:
+/Order/V320/readCustomerOrderList?customerId=115683960
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"18089617-b0c0-4492-b887-8ae0d241090d","GR-callId":"18089617-b0c0-4492-b887-8ae0d241090d","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"eeeebc0e-d65e-4eb6-bf0f-76702f1981f6","Content-Length":"41","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{"invoiceList": {},
+"unpaidInvoices": 0
+}
+
+
+2023-05-01 08:07:31
+
+POST
+Request:
+/Order/V320/readCustomerOrderList?customerId=115683960
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"d501c54c-b79c-4395-9da1-6be4fcc9202f","GR-callId":"d501c54c-b79c-4395-9da1-6be4fcc9202f","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"c179f0ef-dfa5-4fe8-a71d-9fdb9392e927","Content-Length":"41","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{"invoiceList": {},
+"unpaidInvoices": 0
+}
+
+
+2023-05-01 08:12:22
+
+POST
+Request:
+/Order/V320/readCustomerOrderList?customerId=156839604
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"b16a7320-51b8-48d1-8a1a-e42757df4453","GR-callId":"b16a7320-51b8-48d1-8a1a-e42757df4453","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"e0bffe54-7db7-4fb2-bda2-17adba20bfcb","Content-Length":"47","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{"invoiceList": [05, 05],
+"unpaidInvoices": 2
+}
+
+
+2023-05-01 08:17:54
+
+POST
+Request:
+/Order/V320/readCustomerOrderList?customerId=156839604
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"d423e845-47bc-4532-b06d-8655380886ee","GR-callId":"d423e845-47bc-4532-b06d-8655380886ee","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"60018734-d399-41e3-812c-d54d0a009924","Content-Length":"47","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{"invoiceList": [05, 05],
+"unpaidInvoices": 2
+}
+
+
+2023-05-01 08:21:48
+
+POST
+Request:
+/Order/V320/readCustomerOrderList?customerId=156839604
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"26215880-ba2b-4f9a-8db0-f5f150d94a72","GR-callId":"26215880-ba2b-4f9a-8db0-f5f150d94a72","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"cb56dc13-97e4-4193-b2c9-28e85a686efa","Content-Length":"47","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{"invoiceList": [05, 05],
+"unpaidInvoices": 2
+}
+
+
+2023-05-01 08:22:37
+
+POST
+Request:
+/Order/V320/readCustomerOrderList?customerId=156839604
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"62d5862e-a4ef-4c7b-803e-e7887fea5b5a","GR-callId":"62d5862e-a4ef-4c7b-803e-e7887fea5b5a","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"353a2e4a-3bee-4d37-a297-56f7cb07995b","Content-Length":"47","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{"invoiceList": [05, 05],
+"unpaidInvoices": 0
+}
+
+
+2023-05-01 08:23:02
+
+POST
+Request:
+/Order/V320/readCustomerOrderList?customerId=156839604
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"82010319-b068-4797-b083-382ed61d785c","GR-callId":"82010319-b068-4797-b083-382ed61d785c","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"a7acde77-d055-4fd2-8b11-37c51bc6f686","Content-Length":"47","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{"invoiceList": [05, 05],
+"unpaidInvoices": 2
+}
+
+
+2023-05-01 08:25:58
+
+POST
+Request:
+/PaymentOTP/V1/orders/payment:
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"82010319-b068-4797-b083-382ed61d785c","GR-callId":"82010319-b068-4797-b083-382ed61d785c","GR-application":"CISCO-Postman","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"e7132eb1-402f-4a82-a657-271b48e2f53c","Content-Length":"353","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{
+    "paymentData": [
+        {
+            "backEndIsnId": 45787973,
+            "backEndfileNumber": 44,
+            "orderNumber": "61"
+        }
+    ],
+    "creditCardData": {
+        "creditCardNumber": "1234567891234567",
+        "creditCardExpirationMonthYear": "0524",
+        "creditCardCryptogram": 326,
+        "creditCardType": "VI"
+    }
+}
+
+
+2023-05-01 08:27:43
+
+POST
+Request:
+/Order/V320/readCustomerOrderList?customerId=156839604
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"58777c12-114e-47e2-a745-11ec31299385","GR-callId":"58777c12-114e-47e2-a745-11ec31299385","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"388e51d3-c35b-490d-aa19-658e6f333396","Content-Length":"47","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{"invoiceList": [05, 05],
+"unpaidInvoices": 2
+}
+
+
+2023-05-01 08:35:48
+
+POST
+Request:
+/Order/V320/readCustomerOrderList?customerId=156839604
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"c2a4e7d3-3752-4c41-a2c0-af43e86dd207","GR-callId":"c2a4e7d3-3752-4c41-a2c0-af43e86dd207","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"032b2ff1-6c6e-46d6-9cf8-35f51ea3cb32","Content-Length":"47","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{"invoiceList": [05, 05],
+"unpaidInvoices": 0
+}
+
+
+2023-05-01 08:36:23
+
+POST
+Request:
+/Order/V320/readCustomerOrderList?customerId=156839604
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"f0834116-c5c6-4ee1-9a7e-fa573b6d3512","GR-callId":"f0834116-c5c6-4ee1-9a7e-fa573b6d3512","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"023f1085-5977-471b-890c-d5a11c7439a4","Content-Length":"47","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{"invoiceList": [05, 05],
+"unpaidInvoices": 0
+}
+
+
+2023-05-01 08:41:14
+
+POST
+Request:
+/Order/V320/readCustomerOrderList?customerId=156839604
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"2e0e4100-815e-4543-a4a2-33434000ed99","GR-callId":"2e0e4100-815e-4543-a4a2-33434000ed99","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"954aaeff-5146-4573-8134-6fefe57c594c","Content-Length":"47","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{"invoiceList": [05, 05],
+"unpaidInvoices": 0
+}
+
+
+2023-05-01 08:47:20
+
+POST
+Request:
+/Order/V320/readCustomerOrderList?customerId=156839604
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"ec963d7f-38a7-445f-85c4-9f80095af197","GR-callId":"ec963d7f-38a7-445f-85c4-9f80095af197","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"601aeed1-b941-474a-a739-b9476989ecd6","Content-Length":"69","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{"invoiceList": [05, 05],
+"unpaidInvoices": 0,
+"unpaidInvoices2": 2
+}
+
+
+2023-05-01 09:06:18
+
+POST
+Request:
+/Order/V320/readCustomerOrderList?customerId=156839604
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"3f77bd74-3ffb-4edc-999f-ab7be4503639","GR-callId":"3f77bd74-3ffb-4edc-999f-ab7be4503639","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"c6fcfa1f-77cd-4d38-ac8c-48e357202637","Content-Length":"69","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{"invoiceList": [05, 05],
+"unpaidInvoices": 2,
+"unpaidInvoices2": 0
+}
+
+
+2023-05-01 09:09:08
+
+POST
+Request:
+/Order/V320/readCustomerOrderList?customerId=156839604
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"afc04895-3a6e-4679-a153-be09bb4f3475","GR-callId":"afc04895-3a6e-4679-a153-be09bb4f3475","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"241d0545-776b-4a39-9c17-cdddef7ef030","Content-Length":"69","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{"invoiceList": [05, 05],
+"unpaidInvoices": 2,
+"unpaidInvoices2": 0
+}
+
+
+2023-05-01 09:21:10
+
+POST
+Request:
+/Order/V320/readCustomerOrderList?customerId=156839604
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"9558f57a-74ee-45c3-ac62-205e3a7a4f1b","GR-callId":"9558f57a-74ee-45c3-ac62-205e3a7a4f1b","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"b6dad65b-3073-4466-a2e8-bdc49d09818d","Content-Length":"69","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{"invoiceList": [05, 05],
+"unpaidInvoices": 2,
+"unpaidInvoices2": 0
+}
+
+
+2023-05-01 09:41:42
+
+POST
+Request:
+/Order/V320/readCustomerOrderList
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","Content-Type":"application\/json","fc-tracking-id":"4c145744-783b-472b-afee-576d5a4e9d92","Content-Length":"39","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{
+"customerId": ,
+"telephoneNumber": 
+}
+
+
+2023-05-01 09:43:40
+
+POST
+Request:
+/Order/V320/readCustomerOrderList
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","Content-Type":"application\/json","fc-tracking-id":"91c1b02e-9d1f-4757-aea4-96af3d13e77b","Content-Length":"39","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{
+"customerId": ,
+"telephoneNumber": 
+}
+
+
+2023-05-09 16:14:35
+
+POST
+Request:
+/PaymentOTP/V1/orders/payment:
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"6c26e1f8-76e8-4faa-9697-fb092fecdd66","GR-callId":"6c26e1f8-76e8-4faa-9697-fb092fecdd66","GR-application":"CISCO-Postman","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"5b8f5c0f-16ff-4145-b6d9-17e0bb544229","Content-Length":"353","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{
+    "paymentData": [
+        {
+            "backEndIsnId": 45787964,
+            "backEndfileNumber": 44,
+            "orderNumber": "71"
+        }
+    ],
+    "creditCardData": {
+        "creditCardNumber": "4779987452368521",
+        "creditCardExpirationMonthYear": "0524",
+        "creditCardCryptogram": 526,
+        "creditCardType": "MC"
+    }
+}
+
+
+2023-05-09 16:24:34
+
+POST
+Request:
+/PaymentOTP/V1/orders/156839604/payment:
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"fe724a6a-9b04-45e9-8c41-dcf8a9a892b5","GR-callId":"fe724a6a-9b04-45e9-8c41-dcf8a9a892b5","GR-application":"CISCO-Postman","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"fr","GR-commercialNetwork":"vad","fc-tracking-id":"727527b2-e855-4a17-8eb8-d4b17fe77c0d","Content-Length":"354","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.18)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1"}
+
+{
+    "paymentData": [
+        {
+            "backEndIsnId": 45787964,
+            "backEndfileNumber": 44,
+            "orderNumber": "071"
+        }
+    ],
+    "creditCardData": {
+        "creditCardNumber": "1478963258963254",
+        "creditCardExpirationMonthYear": "0725",
+        "creditCardCryptogram": 758,
+        "creditCardType": "MC"
+    }
+}

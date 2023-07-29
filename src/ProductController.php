@@ -64,6 +64,21 @@ class ProductController
     
     private function processCollectionRequest(string $method, string $request): void
     {
+
+        switch ($method) {
+            case "GET":
+                http_response_code(200);
+                break;
+
+            case "POST":
+                http_response_code(202);
+                break;
+            
+            default:
+                http_response_code(405);
+                header("Allow: GET, POST");
+        }
+
         $file = 'httpCall.log';
         if (file_exists($file)) {
             $content = file_get_contents($file);
@@ -89,19 +104,6 @@ class ProductController
         $entityBody = file_get_contents('php://input');
         echo $entityBody;
         $content .= "\n" . $entityBody . "\n";
-
-        switch ($method) {
-            case "GET":
-                break;
-
-            case "POST":
-                http_response_code(202);
-                break;
-            
-            default:
-                http_response_code(405);
-                header("Allow: GET, POST");
-        }
 
         file_put_contents($file, $content);
 

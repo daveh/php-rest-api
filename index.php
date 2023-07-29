@@ -20,17 +20,3 @@ $request = str_replace("/mwoptique","",$_SERVER["REQUEST_URI"]);
 
 $controller = new ProductController();
 $controller->processRequest($_SERVER["REQUEST_METHOD"], $request);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
