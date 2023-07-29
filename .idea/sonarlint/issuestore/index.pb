@@ -7,5 +7,3 @@ I
 src/ProductController.php,e/7/e700e69bab56bb0981a93adce94a782eeef77b9d
 9
 	index.php,b/b/bb6499b8e938f92a3695fff1afe57edea4b9efb7
-<
-httpCall.log,b/3/b3a1b11d0696476b9141a9b65abcefeba0e3c321
