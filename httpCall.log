@@ -1637,3 +1637,74 @@ Headers:
         "creditCardType": "MC"
     }
 }
+
+
+2023-05-19 09:37:41
+
+GET
+Request:
+/products?customerId=32746812
+
+Headers:
+{"User-Agent":"PostmanRuntime\/7.32.2","Accept":"*\/*","Cache-Control":"no-cache","Postman-Token":"2d753f35-3810-4c19-a0c8-b129d05b5718","Host":"www.3csh.ca","Accept-Encoding":"gzip, deflate, br","Connection":"keep-alive","Content-Length":"0","X-HTTPS":"1"}
+
+
+
+
+2023-05-30 15:57:26
+
+GET
+Request:
+/Order/V320/readCustomerOrderList?customerId=156839612
+
+Headers:
+{"Accept":"text\/plain, application\/json, application\/cbor, application\/*+json, *\/*","GR-brand":"YR","GR-interactionChannelId":"web","GR-userSessionId":"24415a92-3288-44b2-94fd-2757e9695e05","GR-callID":"24415a92-3288-44b2-94fd-2757e9695e05","GR-application":"CISCO","Content-Type":"application\/json","GR-country":"CA","GR-commercialLanguageId":"en","GR-commercialNetwork":"vad","fc-tracking-id":"a46c546f-cf1d-4349-a7a2-83a7b0e9f9e1","Host":"www.3csh.ca","Connection":"Keep-Alive","User-Agent":"Apache-HttpClient\/4.5.13 (Java\/11.0.19)","Accept-Encoding":"gzip,deflate","X-HTTPS":"1","Content-Length":"0"}
+
+
+
+
+2023-07-29 17:05:44
+
+GET
+Request:
+/paiement-result
+
+Headers:
+{"Content-Type":"application\/json","User-Agent":"PostmanRuntime\/7.32.3","Accept":"*\/*","Postman-Token":"8861d0cc-6453-487c-a549-b5416e0fe578","Host":"www.3csh.ca","Accept-Encoding":"gzip, deflate, br","Connection":"keep-alive","Content-Length":"0","X-HTTPS":"1"}
+
+
+
+
+2023-07-29 17:14:04
+
+POST
+Request:
+/paiement-result
+
+Headers:
+{"Content-Type":"application\/json","User-Agent":"PostmanRuntime\/7.32.3","Accept":"*\/*","Postman-Token":"7e29817b-6562-416d-abb3-900169ab4494","Host":"www.3csh.ca","Accept-Encoding":"gzip, deflate, br","Connection":"keep-alive","Content-Length":"85","X-HTTPS":"1"}
+
+{
+    "http-response": {
+        "code": 200,
+        "message": "The result"
+    }
+}
+
+
+2023-07-29 17:24:32
+
+POST
+Request:
+/paiement-result
+
+Headers:
+{"Content-Type":"application\/json","User-Agent":"PostmanRuntime\/7.32.3","Accept":"*\/*","Postman-Token":"07b57f91-de45-40c9-be21-ac701893a24f","Host":"www.3csh.ca","Accept-Encoding":"gzip, deflate, br","Connection":"keep-alive","Content-Length":"136","X-HTTPS":"1"}
+
+{
+    "http-response": {
+        "code": {{paymentCode}},
+        "message": "{{paymentMsg}}",
+        "info": "{{paymentInfo}}"
+    }
+}
