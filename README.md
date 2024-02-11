@@ -2,7 +2,7 @@
 
 Source code to accompany this video: https://youtu.be/X51KOJKrofU
 
-[![Signup and Login with PHP and MySQL](https://img.youtube.com/vi/X51KOJKrofU/0.jpg)](https://youtu.be/X51KOJKrofU)
+[![Create a PHP REST API : Write a RESTful API from Scratch using Plain, Object-Oriented PHP and MySQL](https://img.youtube.com/vi/X51KOJKrofU/0.jpg)](https://youtu.be/X51KOJKrofU)
 
 ## Topics covered in the video
 * Basic REST API routing and URLs
