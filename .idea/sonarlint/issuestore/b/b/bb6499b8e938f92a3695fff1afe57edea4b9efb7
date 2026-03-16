@@ -1,0 +1,5 @@
+
+W	php:S1808"6Put exactly one space after comma separated arguments.(¥ÙÖÖúÿÿÿÿ8úžá¹ý0
+G	php:S2003"&Replace "require" with "require_once".(¼ï¯éûÿÿÿÿ8úžá¹ý0
+?php:S125"Remove this commented out code.(ß¢¼ëùÿÿÿÿ8ûžá¹ý0
+m	php:S4833"LReplace "require" with namespace import mechanism through the "use" keyword.(¼ï¯éûÿÿÿÿ8ûžá¹ý0
